@@ -1,8 +1,8 @@
 // "use strict";
 
-for (let i = 5; i < 11; i++){
-    console.log(i);
-}
+// for (let i = 5; i < 11; i++){
+//     console.log(i);
+// }
 
 
 
@@ -48,15 +48,16 @@ for (let i = 5; i < 11; i++){
 //         console.log(i);
 
 
-const arr = [3, 5, 8, 16, 20, 23, 50];
-const result = [];
+// const arr = [3, 5, 8, 16, 20, 23, 50];
+// const result = [];
 
-for (let i = 0; i < arr.length; i++){
-    result[i] = arr[i]
+// for (let i = 0; i < arr.length; i++){
+//     result[i] = arr[i]
     
-}
+// }
 
-console.log(result);
-console.log(arr);
+// console.log(result);
+// console.log(arr);
 
+for
 
