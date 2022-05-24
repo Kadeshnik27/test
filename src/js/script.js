@@ -69,4 +69,3 @@ function writeYourGenres() {
 
 writeYourGenres();
 
-h1

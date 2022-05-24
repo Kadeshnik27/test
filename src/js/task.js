@@ -59,5 +59,5 @@
 // console.log(result);
 // console.log(arr);
 
-for
+// for
 
